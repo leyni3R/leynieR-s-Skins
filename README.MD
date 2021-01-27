@@ -1,6 +1,5 @@
 # leynieR's Skins
 
-Social:
 # [Twitch](https://www.twitch.tv/leynier)
 # [Twitter](https://twitter.com/leyni3R)
 
