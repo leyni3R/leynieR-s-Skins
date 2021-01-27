@@ -1,8 +1,8 @@
 # leynieR's Skins
 
 Social:
-https://www.twitch.tv/leynier
-https://twitter.com/leyni3R
+# Twitch (https://www.twitch.tv/leynier)
+# Twitter (https://twitter.com/leyni3R)
 
 # [leynieR's Skin 2019](https://www.mediafire.com/file/hq3et2o9ikea16c/%23-Sama2019Edit.osk/file)
 
